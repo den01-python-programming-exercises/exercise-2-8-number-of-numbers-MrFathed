@@ -10,7 +10,7 @@ def main():
         
         count = count + 1
 
-    print("Number of numbers:" + str(count))
+    print("Number of numbers: " + str(count))
 
 if __name__ == '__main__':
     main()
